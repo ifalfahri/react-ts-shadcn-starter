@@ -32,7 +32,7 @@ function App() {
         />
       </a>
       <Button
-      ><a href="">
+      ><a href="https://github.com/ifalfahri/react-ts-shadcn-starter">
         ⭐️ on GitHub</a>
       </Button>
       </div>
